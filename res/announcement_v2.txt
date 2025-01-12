@@ -4,7 +4,7 @@
   "outdated": false,
   "minVersion": -1,
   "maxVersion": -1,
-  "specificLang": [zh_CN],
+  "specificLang": ["zh_CN"],
   "title": [
     {
       "lang": "en",
