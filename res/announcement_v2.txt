@@ -1,0 +1,29 @@
+{
+  "id": 6,
+  "significant": true,
+  "outdated": false,
+  "minVersion": -1,
+  "maxVersion": -1,
+  "specificLang": [],
+  "title": [
+    {
+      "lang": "en",
+      "text": "About Controller Update"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "关于控件更新"
+    }
+  ],
+  "date": "2024.09.23",
+  "content": [
+    {
+      "lang": "en",
+      "text": "Starting from 1.1.8.1, the launcher will add a controller repository, allowing players to upload their own controllers or download controllers made by others. For details, please refer to the url, or join the QQ group (139641497).\n https://github.com/FCL-Team/FCL-Controllers"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "从 1.1.8.1 开始，启动器将会加入一个控件仓库，允许用户上传自己制作的控件，或者下载他人上传的控件。详情请参考链接，或者加入 QQ 群（139641497）。\n https://github.com/FCL-Team/FCL-Controllers"
+    }
+  ]
+}

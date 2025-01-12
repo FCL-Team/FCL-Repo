@@ -1,0 +1,26 @@
+{
+  "id": 2,
+  "significant": true,
+  "specificLang": "",
+  "title": [
+    {
+      "lang": "en",
+      "text": "About Launcher"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "关于启动器"
+    }
+  ],
+  "date": "2024.02.07",
+  "content": [
+    {
+      "lang": "en",
+      "text": "The current version is too old, please update immediately."
+    },
+    {
+      "lang": "zh_CN",
+      "text": "当前版本过旧，请立即更新。"
+    }
+  ]
+}
