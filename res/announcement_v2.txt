@@ -1,29 +1,29 @@
 {
-  "id": 6,
+  "id": 7,
   "significant": true,
   "outdated": false,
   "minVersion": -1,
   "maxVersion": -1,
-  "specificLang": [],
+  "specificLang": [zh_CN],
   "title": [
     {
       "lang": "en",
-      "text": "About Controller Update"
+      "text": ""
     },
     {
       "lang": "zh_CN",
-      "text": "关于控件更新"
+      "text": "关于日志分析群"
     }
   ],
   "date": "2024.09.23",
   "content": [
     {
       "lang": "en",
-      "text": "Starting from 1.1.8.1, the launcher will add a controller repository, allowing players to upload their own controllers or download controllers made by others. For details, please refer to the url, or join the QQ group (139641497).\n https://github.com/FCL-Team/FCL-Controllers"
+      "text": ""
     },
     {
       "lang": "zh_CN",
-      "text": "从 1.1.8.1 开始，启动器将会加入一个控件仓库，允许用户上传自己制作的控件，或者下载他人上传的控件。详情请参考链接，或者加入 QQ 群（139641497）。\n https://github.com/FCL-Team/FCL-Controllers"
+      "text": "近期，一些社区玩家自发组建了一些日志分析群，免费帮助玩家解决一些常见问题。请注意，如无特殊说明，此类群聊一般是解决桌面版启动器的常见问题，不包括FCL的问题。\nMinecraft Java版并不支持Android平台，能运行是因为我们补全了Minecraft所需的必要运行环境，但模组、光影、整合包通常需要额外的运行环境，因此许多错误并非由模组、整合包、光影本身导致，而是启动器不支持。\n除非你能在桌面版启动器上复现同样的错误，否则请不要在此类日志分析群上传任何FCL日志。"
     }
   ]
 }
