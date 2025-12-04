@@ -1,10 +1,10 @@
 {
-  "id": 8,
+  "id": 9,
   "significant": true,
   "outdated": false,
   "minVersion": -1,
   "maxVersion": -1,
-  "specificLang": [],
+  "specificLang": ["zh_CN"],
   "title": [
     {
       "lang": "en",
@@ -12,10 +12,10 @@
     },
     {
       "lang": "zh_CN",
-      "text": "关于 MobileGlues"
+      "text": "关于 Terracotta | 陶瓦联机"
     }
   ],
-  "date": "2025.02.10",
+  "date": "2025.12.04",
   "content": [
     {
       "lang": "en",
@@ -23,7 +23,7 @@
     },
     {
       "lang": "zh_CN",
-      "text": "渲染器 MobileGlues 已发布，FCL 于 1.2.0.5 版本适配该渲染器，请更新后安装此插件。\n下载地址：https://github.com/MobileGL-Dev/MobileGlues-release/releases"
+      "text": "FCL 启动器自 1.2.7.1 版本开始已内置联机功能，该功能基于第三方软件 Terracotta（陶瓦联机），目前可以和 HMCL、PCL CE、FCL 互联，未来 ZL2 也会接入，支持离线账户联机。详细用法见启动器内置教程。请大家多多测试反馈。"
     }
   ]
 }
