@@ -1,5 +1,5 @@
 {
-  "id": 9,
+  "id": 10,
   "significant": true,
   "outdated": false,
   "minVersion": -1,
@@ -8,22 +8,22 @@
   "title": [
     {
       "lang": "en",
-      "text": "About Terracotta | Multiplayer"
+      "text": "About Download Controller"
     },
     {
       "lang": "zh_CN",
-      "text": "关于 Terracotta | 陶瓦联机"
+      "text": "关于下载布局"
     }
   ],
-  "date": "2026.01.08",
+  "date": "2026.03.03",
   "content": [
     {
       "lang": "en",
-      "text": "Starting with version 1.2.7.8, FCL added built-in multiplayer feature (global), This feature is based on the third-party software Terracotta. Currently, it can connect with HMCL, PCL CE, FCL, and ZL2. Offline account is also supported. See the launcher's built-in tutorial for detailed usage instructions."
+      "text": "If you find that the launcher crashes after clicking Download Controller when updating to version 1.2.8.9, you can go to GitHub (https://github.com/FCL-Team/FoldCraftLauncher/actions) to download the latest test version."
     },
     {
       "lang": "zh_CN",
-      "text": "FCL 启动器自 1.2.7.1 版本开始已内置联机功能，该功能基于第三方软件 Terracotta（陶瓦联机），目前可以和 HMCL、PCL CE、FCL、ZL2 互联，支持离线账户联机。详细用法见启动器内置教程。"
+      "text": "如果你发现更新到1.2.8.9后点击“下载布局”后启动器发生崩溃，可以前往Github（https://github.com/FCL-Team/FoldCraftLauncher/actions）下载最新测试版本。"
     }
   ]
 }
