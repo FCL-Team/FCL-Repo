@@ -19,11 +19,11 @@
   "content": [
     {
       "lang": "en",
-      "text": "If you find that the launcher crashes after clicking Download Controller when updating to version 1.2.8.9, you can go to GitHub (https://github.com/FCL-Team/FoldCraftLauncher/actions) to download the latest test version."
+      "text": "If you find that the launcher crashes after clicking Download Controller when updating to version 1.2.8.9, you can go to GitHub ( https://github.com/FCL-Team/FoldCraftLauncher/actions ) to download the latest test version."
     },
     {
       "lang": "zh_CN",
-      "text": "如果你发现更新到1.2.8.9后点击“下载布局”后启动器发生崩溃，可以前往Github（https://github.com/FCL-Team/FoldCraftLauncher/actions）下载最新测试版本。"
+      "text": "如果你发现更新到1.2.8.9后点击“下载布局”后启动器发生崩溃，可以前往Github（ https://github.com/FCL-Team/FoldCraftLauncher/actions ）下载最新测试版本。"
     }
   ]
 }
